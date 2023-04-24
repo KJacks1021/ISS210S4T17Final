@@ -5,8 +5,8 @@ Be sure to replace the following with your substitions.
 ISSFront: https://image.shutterstock.com/image-photo/image-260nw-1226844490.jpg 
 SJImage1: https://www.ncoa.org/
 SJImage2: Youtube
-SJImage3: https://bloody-disgusting.com/editorials/3601617/evolution-undead-brief-history-zombies-horror/
+SJImage3: https://www.sycamoreinstitutetn.org/how-socioeconomic-factors-affect-health/
 SJImage4: https://stock.adobe.com/search?k=economic+justice 
 SJImage5: https://www.jamesgmartin.center/2018/08/social-justice-is-overrunning-the-university-of-texas/
 SJImage6: https://www.facebook.com/groups/1016906918423966/ 
-Zombies in Revolt: The Violent Revolution of American Cinematic Monsters; DOI: 10.15291/sic/2.4.lc.2 
+Age and Socioeconomic Status: https://www.apa.org/pi/ses/resources/publications/age#:~:text=SES%20affects%20overall%20human%20functioning,our%20society%20as%20a%20whole. 
