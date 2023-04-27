@@ -7,6 +7,6 @@ SJImage1: https://www.ncoa.org/
 SJImage2: Youtube
 SJImage3: https://www.sycamoreinstitutetn.org/how-socioeconomic-factors-affect-health/
 SJImage4: https://stock.adobe.com/search?k=economic+justice 
-SJImage5: https://www.jamesgmartin.center/2018/08/social-justice-is-overrunning-the-university-of-texas/
+SJImage5: https://www.istockphoto.com/vector/life-journey-men-gm1008796894-272060361
 SJImage6: https://www.facebook.com/groups/1016906918423966/ 
 Age and Socioeconomic Status: https://www.apa.org/pi/ses/resources/publications/age#:~:text=SES%20affects%20overall%20human%20functioning,our%20society%20as%20a%20whole. 
